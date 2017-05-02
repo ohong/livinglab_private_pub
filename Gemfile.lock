@@ -32,7 +32,7 @@ GEM
     private_pub (1.0.3)
       faye
     public_suffix (2.0.5)
-    rack (2.0.1)
+    rack (1.4.7)
     thin (1.7.0)
       daemons (~> 1.0, >= 1.0.9)
       eventmachine (~> 1.0, >= 1.0.4)
